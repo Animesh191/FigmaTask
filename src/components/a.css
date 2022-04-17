@@ -1,0 +1,28 @@
+.App {
+    position:static;
+    font-size:40px;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+    }
+    
+    th {
+    color:black;
+    font-weight: 600;
+    border-bottom: 1px solid black;
+    }
+    
+    td {
+    color:blueviolet;
+    font-family:cursive;
+    text-align: center;
+    }
+    
